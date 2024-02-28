@@ -24,7 +24,7 @@ import jakarta.servlet.http.HttpServletResponse;
 
 @RestController
 @RequestMapping("api/food")
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://74944anand.github.io")
 public class FoodController {
 
 	@Autowired

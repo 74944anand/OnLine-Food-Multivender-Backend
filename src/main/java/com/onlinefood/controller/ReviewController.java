@@ -19,7 +19,7 @@ import io.swagger.v3.oas.annotations.Operation;
 
 @RestController
 @RequestMapping("api/food/review")
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://74944anand.github.io")
 public class ReviewController {
 	
 	@Autowired
